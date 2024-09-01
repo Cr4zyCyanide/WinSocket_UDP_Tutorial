@@ -23,14 +23,14 @@
 - Server Usage
 
 ```shell
-./typing_battle_S.exe [listen_port]
+./Server.exe [listen_port]
 # default IP address: 127.0.0.1
 ```
 
 - Client Usage
 
 ```shell
-./typing_battle_C.exe [server_address] [server_port]
+./Client.exe [server_address] [server_port]
 ```
 
 ## 开发环境
